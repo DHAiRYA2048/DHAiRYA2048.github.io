@@ -6,13 +6,14 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: DHAiRYA
+title: Information
 description: This is a place where I share my learnings and experiences with you ❤
 github_username: DHAiRYA2048
 
 # Email and twitter are optional:
 email: dhairyashah2801@gmail.com
 twitter_username:
+leetcode: https://leetcode.com/DHAiRYA_2801/
 
 # Set this to true to get LaTeX math equation support
 use_math:
