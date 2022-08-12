@@ -1,4 +1,6 @@
-## Hello and welcome to this blog.
+## <p align="center">
+    Hello and welcome to this blog.
+</p>
 
 ![Sample image](images/logo.png)
 
