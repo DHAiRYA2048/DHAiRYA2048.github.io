@@ -12,10 +12,10 @@ github_username: DHAiRYA2048
 
 # Email and twitter are optional:
 email: dhairyashah2801@gmail.com
-twitter_username:
+twitter_username: DHAiRYA_1
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
