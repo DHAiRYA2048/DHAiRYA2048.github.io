@@ -1,0 +1,6 @@
+# How I plan to develop my blog and writing skills
+
+## Date: 4 Feb 2023
+From today, I'll be the one who blogs with discipline. My aim for maintaining a blog site is primarily powered by 2 reasons;
+1. Sharpen my writing skills so that I can convey my thoughts to people in a much powerful way
+2. To get better understanding about myself I beleive writing has the capability to do so.
